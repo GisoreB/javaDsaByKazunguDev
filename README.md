@@ -5,5 +5,4 @@
 
 
 ### **Big O notation**
-
 ![Screenshot 2024-05-22 175739](https://github.com/GisoreB/javaDsaByKazunguDev/assets/144854877/f3c8e3d3-3261-40df-809b-835a181749d0)
